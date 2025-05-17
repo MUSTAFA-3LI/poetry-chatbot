@@ -121,16 +121,22 @@ python Poetry_Chatbot.py
      * 1: Enter chat mode
      * 2: Enter poem generation mode
      * 3: Exit program
+    
+     * ![Image](https://github.com/user-attachments/assets/dac363dc-1156-4641-9d68-4c7b05e58c8b)
 
    - In Chat Mode:
      * Type 'poem' to generate a poem
      * Type 'menu' to return to main menu
      * Type 'quit' to exit
+    
+     * ![Image](https://github.com/user-attachments/assets/3413734e-7774-4032-80fc-5745d1764761)
 
    - In Poem Mode:
      * Type 'back' to return to chat
      * Type 'topics' to see available themes
      * Type 'quit' to exit
+    
+     * ![Image](https://github.com/user-attachments/assets/037bbb1e-16ae-40d1-a1d0-c7436eb66fcf)
 
 ## How It Works
 
