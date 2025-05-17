@@ -1,0 +1,8 @@
+torch>=1.9.0
+transformers>=4.30.0
+numpy>=1.21.0
+tqdm>=4.65.0
+requests>=2.28.0
+regex>=2022.1.18
+sentencepiece>=0.1.97
+protobuf>=3.20.0 
