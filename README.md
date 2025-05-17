@@ -88,7 +88,7 @@ Note: While other dependencies are listed in requirements.txt, they are automati
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/MUSTAFA-3LI/poetry-chatbot
 ```
 
 2. Create and activate a virtual environment (recommended):
